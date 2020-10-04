@@ -1,0 +1,22 @@
+{
+	"details":[
+		{
+			"card":{
+				"name":"akhila",
+				"email":"akhilajulakanti77@gmail.com",
+				"mobile":"8524632569",
+				"description":"student"
+			},
+			"career":"I want to become a s/w developer"
+		},
+		{
+			"card":{
+				"name":"rahul",
+				"email":"rahuljulakanti77@gmail.com",
+				"mobile":"8524632569",
+				"description":"student"
+			},
+			"career":"I want to become a s/w developer"
+		}
+	]
+}
